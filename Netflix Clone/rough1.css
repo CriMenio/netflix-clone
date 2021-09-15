@@ -1,0 +1,65 @@
+
+@media (min-width: 360px){
+    .showcase-content {
+        position: relative;
+        z-index: 2;
+        margin-top: 90px;
+        width: 100%;
+        height: 1000px;
+        background: rgb(0, 0, 0, 0.65);
+        display: flex;
+        padding: 50px 70px;
+    }
+    .formm h1 {
+        margin-bottom: 50px;
+        font-size: 80px;
+    }
+    
+    .formm {
+        width: 100%;
+        margin-bottom: 50px;
+        font-size: 30px;
+    }
+    
+    .formm .info {
+        padding: 5px 0;
+        margin-bottom: 50px;
+    }
+    
+    .formm .info .email {
+        margin-bottom: 50px;
+        width: 100%;
+        height: 120px;
+        border-radius: 5px;
+        border: none;
+        padding: 20px;
+        font-size: inherit;
+    }
+    
+    .formm .btn {
+        margin-bottom: 10px;
+        width: 100%;
+    
+    }
+    
+    .btn-primary {
+        width: 100%;
+        height: 100px;
+        border-radius: 5px;
+        background: red;
+        color: #fff;
+        font-size: inherit;
+        font-weight: bold;
+        border: none;
+        cursor: pointer;
+        outline: none;
+        box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
+    }
+    .logo img {
+        width: 30%;
+        height: 80px;
+        position: absolute;
+        top: 50px;
+        left: 40px;
+    
+    } 
